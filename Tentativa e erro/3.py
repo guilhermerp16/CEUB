@@ -1,0 +1,13 @@
+def bomdia():
+    print("Bom dia!")
+    print("Bom dia!")
+    print("Bom dia!")
+    print("Bom dia!")
+    print("Bom dia!")
+    print("Bom dia!")
+bomdia()
+bomdia()
+bomdia()
+bomdia()
+bomdia()
+bomdia()
